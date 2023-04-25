@@ -1,0 +1,46 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.Login {
+    text-align: center;
+  }
+  
+  .Login-logo {
+    height: 150px;
+    margin-top: 20px;
+  }
+  
+  .Login-header {
+    background-color: #C5003E;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .SignIn{
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    height: 300px; 
+    width: 400px;
+    padding-top: 125px;
+  }
+  
+
+  .Google {
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+    background: #C5003E;
+    border: #C5003E;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin: 40px;
+    width: 70%;
+    height: 35px;
+    margin-top: 0;
+  
+  }
